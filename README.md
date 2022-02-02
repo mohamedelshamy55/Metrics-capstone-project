@@ -1,73 +1,66 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# COVID METRICS WEBAPP
+- In this repo I was to select an API that provides numeric data about a topic that I would like and then build the webapp around it. The webapp will have several pages:
+  - one page with a list of items that could be filtered by some parameters.
+  - one page for the item details.
 
-# Project Name
+## Project Description
+> Click [here](https://www.loom.com/share/e368cef5bca44691ac55898afa35fa68) to watch a video that gives a brief description of the project
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+> Click [here](https://mohamedelshamy55.github.io/Metrics-capstone-project/) to see the live demo
 
 
-## Getting Started
+Countrylist page                              |  Countrydetails page
+:------------------------------------------:|:------------------------------------------:
+![](./src/assets/img/countrylist.png)   |  ![](./src/assets/img/countrydata.png) 
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Built With
 
+- React.js
+- HTML (Hyper-Text Markup Language)
+- CSS (Cascading Style Sheets)
+- JS (JavaScript)
 
-To get a local copy up and running follow these simple example steps.
+# Getting Started with Create React App
 
-### Prerequisites
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Setup
+### Project Installation
 
-### Install
+1. Clone the repository
+   ```sh
+   git clone https://github.com/mohamedelshamy55/Metrics-capstone-project.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run server
+   ```sh
+   npm start
+   ```
+## Author
 
-### Usage
+👤 **Mohamed ELShamy**
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mohamedelshamy](https://github.com/mohamedelshamy55) 
+- Twitter: [@mohamedelshamy](https://mobile.twitter.com/moelshamy55) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamedelshamy85/) 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mohamedelshamy55/Metrics-capstone-project/issues).
+
+## Acknowledgments
+Microverse
+
+React and React Router documentation
+
+Hats off to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design inspiration.
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
