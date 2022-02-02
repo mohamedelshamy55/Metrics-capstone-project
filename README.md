@@ -7,7 +7,7 @@
 > Click [here](https://www.loom.com/share/e368cef5bca44691ac55898afa35fa68) to watch a video that gives a brief description of the project
 
 ## Live Demo
-> Click [here]() to see the live demo
+> Click [here](https://mohamedelshamy55.github.io/Metrics-capstone-project/) to see the live demo
 
 
 Countrylist page                              |  Countrydetails page
